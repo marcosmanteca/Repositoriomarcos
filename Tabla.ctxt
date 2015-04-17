@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Tabla()
+comment1.params=
+comment1.target=void\ visualizar()
+comment2.params=s
+comment2.target=void\ visualizar_valor(java.lang.String)
+comment3.params=
+comment3.target=void\ saltar_linea()
+comment4.params=
+comment4.target=void\ leer_tabla()
+comment5.params=
+comment5.target=int\ suma()
+comment6.params=
+comment6.target=int\ leer_teclado()
+numComments=7

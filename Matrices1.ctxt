@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Matrices1()
+comment1.params=
+comment1.target=void\ leer_y_visualizar_matriz_de_4_enteros()
+comment2.params=
+comment2.target=int\ leer_teclado()
+numComments=3
